@@ -1,0 +1,13 @@
+{
+  "originalJar": "MekanismTools-26.1.2-10.8.0.homebaked.jar",
+  "originalSha256": "709923d309a5853c6e26f03ee99a5e63cbba407680b124729effa6e8c42d0793",
+  "publishedArchiveSha256": "c46e4d513134bfe9b4dd3dfd55f8b75ce7f5b6aa947a79dd6e7c22f01459021c",
+  "classes": 85,
+  "classMajors": [
+    69
+  ],
+  "licenseEmbedded": true,
+  "archiveIntegrity": "PASS",
+  "jsonParsing": "PASS",
+  "runtimeValidation": "Compiled artifact located in the previous ATM11 server correction package. Archive integrity and metadata verified; no new full-pack runtime validation was performed for this publication."
+}
