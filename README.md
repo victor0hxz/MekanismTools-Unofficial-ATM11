@@ -89,7 +89,7 @@ Thank you to Aidan C. Brady and everyone who contributed to Mekanism and Mekanis
 **CurseForge: [Version Locked fan project page](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools-version-locked).**
 
 <!-- installed-version-locked -->
-**Current download: [Mekanism: Tools Version Locked](https://github.com/victor0hxz/MekanismTools-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)** — [download JAR directly](https://github.com/victor0hxz/MekanismTools-Unofficial-ATM11/releases/download/atm11-instance-2026-10-08/MekanismTools-Version-Locked-26.1.2-1.0.jar).
+**Current download: [Mekanism: Tools Version Locked](https://github.com/victor0hxz/MekanismTools-Version-Locked/releases/tag/atm11-instance-2026-10-08)** — [download JAR directly](https://github.com/victor0hxz/MekanismTools-Version-Locked/releases/download/atm11-instance-2026-10-08/MekanismTools-Version-Locked-26.1.2-1.0.jar).
 
 This is the Version Locked build copied unchanged from our ATM11 instance, published as an unofficial fan version. Original Mekanism authors and MIT license credits are preserved. This is not endorsed by the upstream authors or the ATM team.
 
@@ -97,13 +97,13 @@ The source snapshot below belongs to the earlier compatibility build and has **n
 
 ## Matching Version Locked modules
 
-- [Mekanism: Version Locked](https://github.com/victor0hxz/Mekanism-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)
-- [Mekanism: Additions Version Locked](https://github.com/victor0hxz/MekanismAdditions-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)
-- [Mekanism: Generators Version Locked](https://github.com/victor0hxz/MekanismGenerators-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)
-- [Mekanism: Tools Version Locked](https://github.com/victor0hxz/MekanismTools-Unofficial-ATM11/releases/tag/atm11-instance-2026-10-08)
+- [Mekanism: Version Locked](https://github.com/victor0hxz/Mekanism-Version-Locked/releases/tag/atm11-instance-2026-10-08)
+- [Mekanism: Additions Version Locked](https://github.com/victor0hxz/MekanismAdditions-Version-Locked/releases/tag/atm11-instance-2026-10-08)
+- [Mekanism: Generators Version Locked](https://github.com/victor0hxz/MekanismGenerators-Version-Locked/releases/tag/atm11-instance-2026-10-08)
+- [Mekanism: Tools Version Locked](https://github.com/victor0hxz/MekanismTools-Version-Locked/releases/tag/atm11-instance-2026-10-08)
 
 <!-- older-source-snapshot -->
-# Mekanism Tools - Unofficial Fan Build (26.1.2)
+# Mekanism Tools Version Locked
 
 Adds Mekanism material-based tools, weapons and armor. This is the matching Tools module from the fan-maintained ATM11 compatibility build.
 
@@ -127,7 +127,7 @@ This initial file should be submitted as **Beta**, pending full-pack community g
 
 ## Downloads and support
 
-Download the unofficial prerelease JAR from [this repository's releases](https://github.com/victor0hxz/MekanismTools-Unofficial-ATM11/releases). Report problems to [this port's issue tracker](https://github.com/victor0hxz/MekanismTools-Unofficial-ATM11/issues). Do not direct port-specific support requests to the original authors.
+Download the unofficial prerelease JAR from [this repository's releases](https://github.com/victor0hxz/MekanismTools-Version-Locked/releases). Report problems to [this port's issue tracker](https://github.com/victor0hxz/MekanismTools-Version-Locked/issues). Do not direct port-specific support requests to the original authors.
 
 ## Build source
 
