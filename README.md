@@ -53,11 +53,11 @@ If you encounter a problem, please report it through the project's issue/support
 
 If you are using this addon, check out the other projects adapted for **Minecraft 26.1.2:**
 
-# ⚙️ [Mekanism: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-version-locked/preview) — The main Mekanism port for Minecraft 26.1.2
+# ⚙️ [Mekanism: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-version-locked) — The main Mekanism port for Minecraft 26.1.2
 
-# ⚡ [Mekanism Generators: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators-version-locked/preview) — Additional power generation content adapted for Minecraft 26.1.2
+# ⚡ [Mekanism Generators: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators-version-locked) — Additional power generation content adapted for Minecraft 26.1.2
 
-# 🧩 [Mekanism Additions: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions-version-locked/preview) — Additional content and features for Mekanism, adapted for Minecraft 26.1.2
+# 🧩 [Mekanism Additions: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions-version-locked) — Additional content and features for Mekanism, adapted for Minecraft 26.1.2
 
 > **Important:** These projects are also unofficial community-made ports and may contain bugs or compatibility issues.
 
